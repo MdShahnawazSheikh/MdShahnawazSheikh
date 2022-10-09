@@ -2,7 +2,7 @@
 - 👀 I’m interested learning new technologies
      and implementing them to make people life easier!
 - 🌱 I’m currently learning Python and JavaScript 
-- 💞️ I have already learnt C, C++, HTML and CSS
+- 💞️ I have already learnt C, C++, Python, HTML and CSS
 - 📫 You can reach me at starkmaliyk@gmail.com
 
 <!---
