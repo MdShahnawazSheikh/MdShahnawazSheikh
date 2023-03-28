@@ -7,6 +7,11 @@
 
 # 💻 Tech Stack:
 
+<style>
+    img{
+        display:inline-block;
+    }
+</style>
 <img src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg" height="50" style="padding-right:8px display:inline-block"/>
 <img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" height="50" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" height="48" style="padding-right:8px display:inline-block"/>  
