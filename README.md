@@ -12,9 +12,10 @@
 <img src="https://brandeps.com/icon-download/D/Django-icon-vector-03.svg" height="48" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/D/Dart-icon-vector-02.svg" height="48" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/F/Flutter-icon-vector-02.svg" height="48" style="padding-right:8px display:inline-block"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" height="50" style="display:inline-block"/>  
-<img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" height="50" style="padding-right:6px display:inline-block"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="50" style="display:inline-block"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="50" style="padding-right:6px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" height="50" style="padding-right:8px display:inline-block"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" height="50" style="display:inline-block"/>  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdShahnawazSheikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -23,5 +24,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
