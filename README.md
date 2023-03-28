@@ -6,19 +6,13 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/StarkMaliykMusic) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisismaliyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahnawaz-sheikh-094a12225) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StarkMaliyk) 
 
 # 💻 Tech Stack:
-
-<style>
-    img{
-        display:inline-block;
-    }
-</style>
 <img src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg" height="50" style="padding-right:8px display:inline-block"/>
 <img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" height="50" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" height="48" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/D/Django-icon-vector-03.svg" height="48" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/D/Dart-icon-vector-02.svg" height="48" style="padding-right:8px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/F/Flutter-icon-vector-02.svg" height="48" style="padding-right:8px display:inline-block"/>  
-<img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" height="50" style="display:inline-block"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" height="50" style="display:inline-block"/>  
 <img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" height="50" style="padding-right:6px display:inline-block"/>  
 <img src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" height="50" style="padding-right:8px display:inline-block"/>  
 
