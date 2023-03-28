@@ -8,14 +8,14 @@
 # 💻 Tech Stack:
 
 <img src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg" height="50" style="padding-right:8px"/>
-<img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" height="50" style="padding-right:8px"/>  
-<img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" height="48" style="padding-right:8px"/>  
-<img src="https://brandeps.com/icon-download/D/Django-icon-vector-03.svg" height="48" style="padding-right:8px"/>  
-<img src="https://brandeps.com/icon-download/D/Dart-icon-vector-02.svg" height="48" style="padding-right:8px"/>  
-<img src="https://brandeps.com/icon-download/F/Flutter-icon-vector-02.svg" height="48" style="padding-right:8px"/>  
-<img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" height="50" />  
-<img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" height="50" style="padding-right:6px"/>  
-<img src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" height="50" style="padding-right:8px"/>  
+<img src="https://brandeps.com/logo-download/C/C++-logo-vector-01.svg" height="50" style="padding-right:8px" style="display:inline-block" />  
+<img src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" height="48" style="padding-right:8px" style="display:inline-block" />  
+<img src="https://brandeps.com/icon-download/D/Django-icon-vector-03.svg" height="48" style="padding-right:8px" style="display:inline-block" />  
+<img src="https://brandeps.com/icon-download/D/Dart-icon-vector-02.svg" height="48" style="padding-right:8px" style="display:inline-block" />  
+<img src="https://brandeps.com/icon-download/F/Flutter-icon-vector-02.svg" height="48" style="padding-right:8px" style="display:inline-block" />  
+<img src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" height="50" style="display:inline-block" />  
+<img src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" height="50" style="padding-right:6px" style="display:inline-block" />  
+<img src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" height="50" style="padding-right:8px" style="display:inline-block" />  
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdShahnawazSheikh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
