@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Md Shahnawaz Sheikh<br>👀 I’m interested learning new technologies and implementing them to make people life easier!<br>🌱 I’m currently learning Flutter and React<br>💞️ I have already learnt C, C++, Python, Dart, HTML, CSS and Javascript<br>📫 You can reach me at shahnawazsheikh165@gmail.com
+👋 Hi, I’m Md Shahnawaz Sheikh<br>👀 I’m interested learning new technologies and implementing them to make people life easier!<br>🌱 I’m currently learning Flutter and React<br>💞️ I have already learnt C, C++, Python, Dart, HTML, CSS, Bootstrap and Javascript<br>📫 You can reach me at shahnawazsheikh165@gmail.com
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/StarkMaliykMusic) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisismaliyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahnawaz-sheikh-094a12225) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StarkMaliyk) 
+[![](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/StarkMaliykMusic) [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thisismaliyk) [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahnawaz-sheikh-094a12225) [![](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@StarkMaliyk) 
 
 # 💻 Tech Stack:
 <div style="display: inline-block;">
