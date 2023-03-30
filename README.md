@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shahnawaz-sheikh-094a12225) 
+<a href="https://www.linkedin.com/in/md-shahnawaz-sheikh-094a12225/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50" style="padding-right:10px"/></a>
+
 
 # 💻 Tech Stack:
 <div style="display: inline-block;">
