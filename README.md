@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Md Shahnawaz Sheikh<br>👀 I’m interested learning new technologies and implementing them to make people life easier!<br>🌱 I’m currently learning Flutter and React<br>💞️ I have already learnt C, C++, Python, Dart, HTML, CSS, Bootstrap and Javascript<br>📫 You can reach me at shahnawazsheikh165@gmail.com
+👋 Hi, I’m Md Shahnawaz Sheikh<br>👀 I’m interested learning new technologies and implementing them to make people life easier!<br>🌱 I’m currently learning Flutter and React<br>💞️ I have already learnt C, C++, Python, Dart, HTML, CSS, ReactJS, ExpressJS, NextJS, NodeJS, MongoDB and Javascript<br>📫 You can reach me at shahnawazsheikh165@gmail.com
 
 
 ## 🌐 Socials:
