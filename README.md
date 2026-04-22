@@ -1,5 +1,56 @@
-# 💫 About Me:
-👋 Hi, I’m Md Shahnawaz Sheikh<br>👀 I’m interested learning new technologies and implementing them to make people life easier!<br>🌱 I’m currently learning Flutter and React<br>💞️ I have already learnt C, C++, Python, Dart, HTML, CSS, ReactJS, ExpressJS, NextJS, NodeJS, MongoDB and Javascript<br>📫 You can reach me at shahnawazsheikh165@gmail.com
+# 👋 Hi, I'm Md Shahnawaz Sheikh
+
+🚀 Software Engineer | Full-Stack Web & Mobile Developer  
+🏗️ Founder of CalfinityAI.app | Co-founder @ ZOLARYS  
+
+---
+
+## 💡 About Me
+I build scalable, modern, and user-focused digital products across web and mobile.
+
+Currently focused on:
+- Building SaaS products
+- AI-powered applications
+- High-performance full-stack systems
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+C • C++ • Python • Dart • JavaScript • TypeScript  
+
+### 🌐 Web Development
+React • Next.js • Node.js • Express.js  
+HTML • CSS • Tailwind  
+MongoDB • Firebase  
+
+### 📱 Mobile Development
+Flutter (Cross-platform apps)
+
+### 🧠 Other
+REST APIs • System Design • UI/UX Implementation  
+Git • GitHub • Deployment & Scaling  
+
+---
+
+## 🚀 Projects
+- 🔥 **Calfinity** – AI-powered nutrition & meal tracking app  
+- 🏢 **ZOLARYS** – App & Web Design & Development agency  
+
+---
+
+## 🎯 What I'm Doing Now
+- Building SaaS products with real-world impact  
+- Exploring AI integrations in mobile & web apps  
+- Scaling products and systems  
+
+---
+
+## 📫 Contact Me
+📧 shahnawazsheikh165@gmail.com  
+
+---
 
 
 ## 🌐 Socials:
